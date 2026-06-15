@@ -9,20 +9,20 @@ import time
 
 # ======================== CONFIGURATION ========================
 # Account Credentials (User Account - NOT Bot Token)
-API_ID = 36265467
-API_HASH = "e4bb758e93749a52a3b4d150cd614f04"
+API_ID = 35652090
+API_HASH = "171dfec88d64a29556da9a0b19e49155"
 
 # User Account Phone Number (with country code)
-PHONE_NUMBER = "+919904932406"  # Replace with your phone number
+PHONE_NUMBER = "+919302158388"  # Replace with your phone number
 
 # Authorized Users (who can use this account)
-AUTHORIZED_IDS = [8750729235, 8790096948]
+AUTHORIZED_IDS = [8785627410]
 
 # Audio Settings
-VOLUME_LEVEL = 50
-BASS_LEVEL = 10
-TREBLE_LEVEL = 5
-MUTED = False
+VOLUME_LEVEL = 200
+BASS_LEVEL = 200
+TREBLE_LEVEL =200
+MUTED = True
 
 # Store active sessions
 active_calls = {}
